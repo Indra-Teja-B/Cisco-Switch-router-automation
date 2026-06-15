@@ -8,12 +8,6 @@ devices = [
         "username": "admin",
         "password": "Cisco"
     },
-    {
-        "device_type": "cisco_ios",
-        "ip": "192.168.159.12",
-        "username": "admin",
-        "password": "Cisco"
-    }
 ]
 
 # Configuration commands
