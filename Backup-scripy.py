@@ -3,7 +3,7 @@ import datetime
 import os
 
 # Folder where backups will be saved
-backup_folder = r"C:\Cisco_Backups"   # Change path if using Linux/Mac
+backup_folder = r"C:\Cisco_Backups"   
 os.makedirs(backup_folder, exist_ok=True)
 
 # Device inventory (add more switches here)
